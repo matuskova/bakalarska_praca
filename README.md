@@ -25,11 +25,7 @@ Virtual therapy offers a novel approach for psychological treatment and research
   - Polar H10 heart rate monitor
 
 ## Folder Structure
-data-folder
-├── images/ # Screenshots from VR with gaze points
-├── data.csv # Eye-tracking data (object, tag, start/end time)
-├── hr_data.csv # Heart rate data (system time, elapsed time, BPM)
-
+<pre> ```none data-folder/ ├── images/ # Screenshots from VR with gaze points ├── data.csv # Eye-tracking data (object, tag, start/end time) ├── hr_data.csv # Heart rate data (system time, elapsed time, BPM) ``` </pre>
 
 ## Getting Started
 
